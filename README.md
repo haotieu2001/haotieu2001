@@ -19,3 +19,4 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 - [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://www.goodreads.com/en/book/show/58213068-meta-learning)
 - [https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [Natural Language Processing with Transformers](https://transformersbook.com/)
