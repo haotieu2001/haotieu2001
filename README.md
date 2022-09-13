@@ -17,6 +17,6 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 ## :notebook: Books On My Reading List:
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://www.goodreads.com/en/book/show/58213068-meta-learning)
-- [https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+- [Machine Learning With Pytorch And Scikit-learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Natural Language Processing with Transformers](https://transformersbook.com/)
