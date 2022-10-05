@@ -8,11 +8,12 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 - [HuggingFace course](https://huggingface.co/course/)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 ## :books: Currently Learning Courses:
-- [Missing-Semester course](https://missing.csail.mit.edu/2020/)
-- [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
-## :bulb: Future Learning Plans:
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 - [PyTorch for deep learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+- [Missing-Semester course](https://missing.csail.mit.edu/2020/)
+## :bulb: Future Learning Plans:
+- [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
+
 
 ## :notebook: Books On My Reading List:
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
