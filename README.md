@@ -14,10 +14,12 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 ## :bulb: Future Learning Plans:
 - [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
-## 🛠: My Projects:
+## 🛠 My Projects:
 <sub>Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project</sub>.
 
 -[English-Vietnamese-Translation](https://github.com/haotieu2001/En-Vi-translation) -This is a project to translation from english to vietnamese.[[Demo-App](https://huggingface.co/spaces/haotieu/en-vi-translation)]
+
+-[Vietnamese-News-Summarizer](https://github.com/haotieu2001/Vietnamese-summarization) -This is a project to summarize vietnamese news.[[Demo-App](https://huggingface.co/spaces/haotieu/Vietnamese-News-Summarizer)]
 
 ## :notebook: Books On My Reading List:
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
