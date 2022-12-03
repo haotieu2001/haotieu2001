@@ -11,7 +11,7 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 ## :books: Currently Learning Courses:
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 - [PyTorch for deep learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
-
+- [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 ## :bulb: Future Learning Plans:
 - [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
 
