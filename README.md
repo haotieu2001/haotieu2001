@@ -15,8 +15,10 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 ## :bulb: Future Learning Plans:
 - [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
 ## 🛠: My Projects:
-<sub>Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project</sub>
+<sub>Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project</sub>.
+
 -[English-Vietnamese-Translation](https://github.com/haotieu2001/En-Vi-translation) -This is a project to translation from english to vietnamese.[[Demo-App](https://huggingface.co/spaces/haotieu/en-vi-translation)]
+
 ## :notebook: Books On My Reading List:
 - [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://www.goodreads.com/en/book/show/58213068-meta-learning)
