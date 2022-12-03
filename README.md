@@ -14,6 +14,8 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 ## :bulb: Future Learning Plans:
 - [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
+## 🥷Open-Source Contributions:
+- Contributed to [Table-Question-Answering task](https://huggingface.co/tasks/table-question-answering) in 🤗 -[[PR](https://github.com/huggingface/hub-docs/pull/398)]
 ## 🛠 My Projects:
 <sub>Click on the project name to directly go to it's GitHub Repository and click demo app to see a live demo of the project</sub>.
 
