@@ -9,9 +9,10 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Missing-Semester course](https://missing.csail.mit.edu/2020/)
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
-## :books: Currently Learning Courses:
 - [PyTorch for deep learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+## :books: Currently Learning Courses:
+-[WandB courses](https://www.wandb.courses/pages/w-b-courses)
 ## :bulb: Future Learning Plans:
 - [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
 ## 🥷Open-Source Contributions:
