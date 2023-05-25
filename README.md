@@ -12,7 +12,7 @@ I'm a fourth-year student in data science who is passionate about learning. You 
 - [PyTorch for deep learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 ## :books: Currently Learning Courses:
--[WandB courses](https://www.wandb.courses/pages/w-b-courses)
+- [WandB courses](https://www.wandb.courses/pages/w-b-courses)
 ## :bulb: Future Learning Plans:
 - [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
 ## 🥷Open-Source Contributions:
