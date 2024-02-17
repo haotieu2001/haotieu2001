@@ -1,6 +1,6 @@
 ### Hi, I'm Hao :boy:
 
-I'm a fourth-year student in data science who is passionate about learning. You can find me playing table tennis when i'm not learning.
+I graduated in data science who is passionate about learning. You can find me playing table tennis when i'm not learning.
 
 ## :school: School:
 - University of Information Technology - VNUHCM
