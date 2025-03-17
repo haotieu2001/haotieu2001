@@ -1,6 +1,6 @@
 ### Hi, I'm Hao :boy:
 
-I graduated in data science who is passionate about learning. You can find me playing table tennis when i'm not learning.
+I graduated in data science who is passionate about learning. I have one year of experience in DevOps and one year of experience in Data Scraping. You can find me playing table tennis when i'm not working.
 
 ## :school: School:
 - University of Information Technology - VNUHCM
@@ -12,9 +12,9 @@ I graduated in data science who is passionate about learning. You can find me pl
 - [PyTorch for deep learning](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
 ## :books: Currently Learning Courses:
-- [WandB courses](https://www.wandb.courses/pages/w-b-courses)
+- [MLOps courses](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)
 ## :bulb: Future Learning Plans:
-- [Full Stack Deep Learning - Course](https://fullstackdeeplearning.com/course/2022/)
+- [AI Engineering Patterns](https://www.leverage.to/learn/dev/ai_engineering_patterns)
 ## 🥷Open-Source Contributions:
 - Contributed to [Table-Question-Answering task](https://huggingface.co/tasks/table-question-answering) in 🤗 -[[PR](https://github.com/huggingface/hub-docs/pull/398)]
 ## 🛠 My Projects:
