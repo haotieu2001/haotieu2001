@@ -4,9 +4,9 @@ I graduated in data science who is passionate about learning. I have one year of
 
 ## :school: School:
 - University of Information Technology - VNUHCM
-## :surfer: Recently Finished Courses
+## :surfer: Finished Courses
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
-## :books: Currently Learning Courses:
+## :books: Learning Courses:
 - [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus&t=102649s)
 ## :bulb: Future Learning Plans:
 - [AI Engineering Patterns](https://www.leverage.to/learn/dev/ai_engineering_patterns)
