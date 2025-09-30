@@ -13,7 +13,6 @@ I graduated in data science who is passionate about learning. I have one year of
 - [Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/?couponCode=2021PM25)
 
 ## :notebook: Books On My Reading List:
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 2nd Edition](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-dp-1098119061/dp/1098119061)
 - [Fundamentals of Data Engineering: Plan and Build Robust Data Systems 1st Edition](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
 - [Learning Spark: Lightning-Fast Data Analytics 2nd Edition](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040)
 - [Data Pipelines with Apache Airflow](https://www.amazon.com/Data-Pipelines-Apache-Airflow-Harenslak/dp/1617296902)
