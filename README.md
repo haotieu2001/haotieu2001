@@ -9,7 +9,8 @@ I graduated in data science who is passionate about learning. I have one year of
 ## :books: Learning Courses:
 - [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus&t=102649s)
 ## :bulb: Future Learning Plans:
-- [AI Engineering Patterns](https://www.leverage.to/learn/dev/ai_engineering_patterns)
+- [AWS Certified Data Engineer Associate 2025 - Hands On!](https://www.udemy.com/course/aws-data-engineer/?couponCode=2021PM25)
+- [Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/?couponCode=2021PM25)
 
 ## :notebook: Books On My Reading List:
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 2nd Edition](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-dp-1098119061/dp/1098119061)
