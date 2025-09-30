@@ -1,13 +1,13 @@
 ### Hi, I'm Hao :boy:
 
-I graduated in data science who is passionate about learning. I have one year of experience in DevOps and one year of experience in Data Scraping. You can find me playing table tennis when i'm not working.
+I graduated in data science who is passionate about learning. I have one year of experience in DevOps and one year of experience in Data Engineering. You can find me playing table tennis when i'm not working.
 
 ## :school: School:
 - University of Information Technology - VNUHCM
 ## :surfer: Recently Finished Courses
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 ## :books: Currently Learning Courses:
-- [MLOps courses](https://www.udemy.com/course/complete-mlops-bootcamp-with-10-end-to-end-ml-projects/)
+- [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus&t=102649s)
 ## :bulb: Future Learning Plans:
 - [AI Engineering Patterns](https://www.leverage.to/learn/dev/ai_engineering_patterns)
 ## 🥷Open-Source Contributions:
