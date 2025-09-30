@@ -2,8 +2,9 @@
 
 I graduated in data science who is passionate about learning. I have one year of experience in DevOps and one year of experience in Data Engineering. You can find me playing table tennis when i'm not working.
 
-## :school: University:
-- University of Information Technology - VNUHCM
+## :school: Schools:
+- Bachelor of DATA SCIENCE at University of Information Technology - VNUHCM
+- NATURAL SCIENCE specialized class at Nguyen Thi Minh Khai High School for the Gifted
 ## :surfer: Finished Courses
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 ## :books: Learning Courses:
