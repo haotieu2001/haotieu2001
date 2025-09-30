@@ -20,7 +20,7 @@ I graduated in data science who is passionate about learning. I have one year of
 -[Vietnamese-News-Summarizer](https://github.com/haotieu2001/Vietnamese-summarization) -This is a project to summarize vietnamese news.[[Demo-App](https://huggingface.co/spaces/haotieu/Vietnamese-News-Summarizer)]
 
 ## :notebook: Books On My Reading List:
-- [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
-- [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://www.goodreads.com/en/book/show/58213068-meta-learning)
-- [Machine Learning With Pytorch And Scikit-learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
-- [Natural Language Processing with Transformers](https://transformersbook.com/)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 2nd Edition](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-dp-1098119061/dp/1098119061)
+- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems 1st Edition](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
+- [Learning Spark: Lightning-Fast Data Analytics 2nd Edition](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040)
+- [Data Pipelines with Apache Airflow](https://www.amazon.com/Data-Pipelines-Apache-Airflow-Harenslak/dp/1617296902)
