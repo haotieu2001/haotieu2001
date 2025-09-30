@@ -2,7 +2,7 @@
 
 I graduated in data science who is passionate about learning. I have one year of experience in DevOps and one year of experience in Data Engineering. You can find me playing table tennis when i'm not working.
 
-## :school: School:
+## :school: University:
 - University of Information Technology - VNUHCM
 ## :surfer: Finished Courses
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
