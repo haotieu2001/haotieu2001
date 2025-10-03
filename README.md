@@ -29,6 +29,7 @@ When I’m not coding, you’ll probably find me playing table tennis 🏓.
 - [Learning Spark: Lightning-Fast Data Analytics 2nd Edition](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040)
 - [Data Pipelines with Apache Airflow](https://www.amazon.com/Data-Pipelines-Apache-Airflow-Harenslak/dp/1617296902)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-dp-1098119061/dp/1098119061)
+
   ---
 ## 🥷Open-Source Contributions:
 - Contributed to [Table-Question-Answering task](https://huggingface.co/tasks/table-question-answering) in 🤗 -[[PR](https://github.com/huggingface/hub-docs/pull/398)]
