@@ -13,14 +13,15 @@ When I’m not coding, you’ll probably find me playing table tennis 🏓.
 ---
 ## :surfer: Completed Courses
 - [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
-  
+- [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus&t=102649s)
+
 ---
 ## :books: Currently Learning
-- [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus&t=102649s)
+- [AWS Certified Data Engineer Associate 2025 - Hands On!](https://www.udemy.com/course/aws-data-engineer/?couponCode=2021PM25)
+
   
 ---
 ## :bulb: Future Learning Goals
-- [AWS Certified Data Engineer Associate 2025 - Hands On!](https://www.udemy.com/course/aws-data-engineer/?couponCode=2021PM25)
 - [Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/?couponCode=2021PM25)
 
   ---
